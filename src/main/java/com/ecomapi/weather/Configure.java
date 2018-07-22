@@ -1,4 +1,5 @@
-package com.hackerrank.weather;
+package com.ecomapi.weather;
+
 
 import org.springframework.context.annotation.Configuration;
 

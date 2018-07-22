@@ -1,4 +1,5 @@
-package com.hackerrank.weather;
+package com.ecomapi.weather;
+
 
 import java.io.IOException;
 import java.text.ParseException;
