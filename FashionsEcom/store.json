@@ -1,0 +1,86 @@
+[
+  {
+    "ID": 1,
+    "Location": "28.6419211 | 77.3164861",
+    "StoreName": "Zara Enterprises",
+    "BrandId": 1
+  },
+  {
+    "ID": 2,
+    "Location": "28.646357 | 77.239256",
+    "StoreName": "Zara Enterprises",
+    "BrandId": 1
+  },
+  {
+    "ID": 3,
+    "Location": "28.6719337 | 77.1445617",
+    "StoreName": "Zara Enterprises",
+    "BrandId": 1
+  },
+  {
+    "ID": 4,
+    "Location": "28.6460212 | 77.188905",
+    "StoreName": "Louis Philippe Store",
+    "BrandId": 3
+  },
+  {
+    "ID": 5,
+    "Location": "28.6816983 | 77.2052655",
+    "StoreName": "Louis Philippe Store",
+    "BrandId": 3
+  },
+  {
+    "ID": 6,
+    "Location": "28.6423281 | 77.1062833",
+    "StoreName": "Louis Philippe Store",
+    "BrandId": 3
+  },
+  {
+    "ID": 7,
+    "Location": "28.6467832 | 77.1895071",
+    "StoreName": "UCB Shop",
+    "BrandId": 2
+  },
+  {
+    "ID": 8,
+    "Location": "28.6440279 | 77.1221923",
+    "StoreName": "UCB Shop",
+    "BrandId": 2
+  },
+  {
+    "ID": 9,
+    "Location": "28.5660456 | 77.3213189",
+    "StoreName": "UCB Shop",
+    "BrandId": 2
+  },
+  {
+    "ID": 10,
+    "Location": "19.086781 | 72.8891851",
+    "StoreName": "Wrogn Store",
+    "BrandId": 4
+  },
+  {
+    "ID": 11,
+    "Location": "12.9959516 | 77.6963417",
+    "StoreName": "Wrogn Store",
+    "BrandId": 4
+  },
+  {
+    "ID": 12,
+    "Location": "28.707474 | 77.191363",
+    "StoreName": "Levi's Exclusive",
+    "BrandId": 5
+  },
+  {
+    "ID": 13,
+    "Location": "28.6570393 | 77.1467257",
+    "StoreName": "Levi's Exclusive",
+    "BrandId": 5
+  },
+  {
+    "ID": 14,
+    "Location": "28.569619 | 77.241704",
+    "StoreName": "Levi's Exclusive",
+    "BrandId": 5
+  }
+]

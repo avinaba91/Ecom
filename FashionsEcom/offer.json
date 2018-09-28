@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "OfferCode": "DEGPRICING10",
+    "OfferDesc": "Degressive Pricing",
+    "thresholdQuan": 50,
+    "reducedUnitPrice": 2,
+    "priorityOrder": 2,
+    "percentOff": 0,
+    "bundleSize": 0
+  },
+  {
+    "Id": 2,
+    "OfferCode": "DEGPRICING20",
+    "OfferDesc": "Degressive Pricing",
+    "thresholdQuan": 100,
+    "reducedUnitPrice": 4,
+    "priorityOrder": 1,
+    "percentOff": 0,
+    "bundleSize": 0
+  },
+  {
+    "Id": 3,
+    "OfferCode": "PROMOPRICING10",
+    "OfferDesc": "Promotion pricing",
+    "thresholdQuan": 0,
+    "reducedUnitPrice": 0,
+    "priorityOrder": 4,
+    "percentOff": 10,
+    "bundleSize": 0
+  },
+  {
+    "Id": 4,
+    "OfferCode": "PROMOPRICING20",
+    "OfferDesc": "Promotion pricing",
+    "thresholdQuan": 0,
+    "reducedUnitPrice": 0,
+    "priorityOrder": 3,
+    "percentOff": 20,
+    "bundleSize": 0
+  },
+  {
+    "Id": 5,
+    "OfferCode": "BUNDLEPRICING10",
+    "OfferDesc": "Bundle Pricing",
+    "thresholdQuan": 0,
+    "reducedUnitPrice": 0,
+    "priorityOrder": 6,
+    "percentOff": 10,
+    "bundleSize": 100
+  },
+  {
+    "Id": 6,
+    "OfferCode": "BUNDLEPRICING20",
+    "OfferDesc": "Promotion pricing",
+    "thresholdQuan": 0,
+    "reducedUnitPrice": 0,
+    "priorityOrder": 5,
+    "percentOff": 20,
+    "bundleSize": 200
+  },
+  {
+    "Id": 7,
+    "OfferCode": "GROUPPRICING10",
+    "OfferDesc": "Group Pricing",
+    "thresholdQuan": 0,
+    "reducedUnitPrice": 0,
+    "priorityOrder": 8,
+    "percentOff": 10,
+    "bundleSize": 0
+  },
+  {
+    "Id": 8,
+    "OfferCode": "GROUPPRICING20",
+    "OfferDesc": "Group Pricing",
+    "thresholdQuan": 0,
+    "reducedUnitPrice": 0,
+    "priorityOrder": 7,
+    "percentOff": 20,
+    "bundleSize": 0
+  }
+]
