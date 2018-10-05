@@ -14,6 +14,7 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
@@ -33,6 +34,7 @@ import com.easy.repository.UserRepository;
 import com.easy.service.EasyProductService;
 
 @RunWith(SpringRunner.class)
+@SpringBootTest
 public class Test_EasyProductService {
 
 	@InjectMocks
